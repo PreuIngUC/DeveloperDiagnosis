@@ -1,12 +1,12 @@
 # Diagnóstico
 
-Este repositorio nos servirá para evaluar su conocimiento técnico y habilidad investigativa para resolver los problemas que les presentaré. Primero les explicaré lo que deben hacer, más abajo les dejaré informapción sobre las tecnologías que usaremos.
+Este repositorio nos servirá para evaluar su conocimiento técnico y habilidad investigativa para resolver los problemas que les presentaré. Primero les explicaré lo que deben hacer, más abajo les dejaré información sobre las tecnologías que usaremos.
 
 ## Los Proyectos
 
 En este espacio creé cuatro carpetas: aboutMe, estadisticas, dibujo y comentarios. En cada una deberán hacer su proyecto correspondiente:
 
-1. AboutMe: un currículum digital de ustedes o un personaje inventado, la idea es que organicen la información de manera estética y atractiva, incorporando imágenes, videos, etc. Aparte de esto debe contener una lista de enlaces a las redes sociales de la persona, lo que me importa es que sepan hacer redirección, así que no es necesario que sea links a redes sociales reales, pueden ser links a páginas que existan pero que seas genéricas, como youtube, google, etc.
+1. aboutMe: un currículum digital de ustedes o un personaje inventado, la idea es que organicen la información de manera estética y atractiva, incorporando imágenes, videos, etc. Aparte de esto debe contener una lista de enlaces a las redes sociales de la persona, lo que me importa es que sepan hacer redirección, así que no es necesario que sea links a redes sociales reales, pueden ser links a páginas que existan pero que seas genéricas, como youtube, google, etc.
 
 2. estaditicas: deben mostrar gráficos estadísticos simples sobre el set de datos que dejé dentro de la misma carpeta. Pueden ser gráficos de barras, de torta, de dispersión, etc. Lo que me importa es que logren leerlos y traducirlos a gráficos.
 
